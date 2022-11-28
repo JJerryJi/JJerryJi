@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=JJerryJi)
+- 🔭 I’m currently working on JavaScript/React Projects
+- 🌱 I’m currently learning backend (Django, Node.js)
+- 🤔 I’m looking for help with all kinds of project! 
 <!--
 **JJerryJi/JJerryJi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
