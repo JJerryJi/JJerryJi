@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-* This is Jerry studying CS and Math at UCLA. Whenever I have some interesting ideas and projects, I will post them here. I am eager to learn from others and dig more in the field of software engineering. 
+* This is Jerry studying CS and Math at UCLA. Whenever I complete interesting projects, I will post them here and share with the community. I am eager to dig more depth in the field of software engineering and also learn others. 
 
 ## 
-- 🔭 I’m currently working on JavaScript/React Projects
-- 🌱 I’m currently learning Django and Node.js
+- 🔭 I’m currently working on Django Backend, striving to become a full-stack programmer
+- 🌱 I’m currently learning Unity and game development
 - 🤔 I’m actively looking for all kinds of opportunities to improve my skills and bolster my knowledge.
-- 📫 Feel free to reach me: jerryji040506@ucla.edu
+- 📫 How to reach me: jerryji040506@ucla.edu
 
 ![](https://komarev.com/ghpvc/?username=JJerryJi)
 
